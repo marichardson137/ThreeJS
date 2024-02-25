@@ -1,0 +1,23 @@
+{
+  "name": "typeface",
+  "version": "0.0.0",
+  "description": "hack like they do in the movies!",
+  "bin": "./typeface.js",
+  "dependencies": {
+    "keypress": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brainss/typeface.git"
+  },
+  "keywords": [
+    "stupid",
+    "prank"
+  ],
+  "author": "brainss",
+  "license": "MIT"
+}
